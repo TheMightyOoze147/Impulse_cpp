@@ -2,6 +2,7 @@
 
 Стандарт C++: C++20. Запуск производился на ОС Ubuntu.
 
+[![с++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 # Структура
 
 ### Сборка
@@ -21,7 +22,6 @@ make clean
 Что удалит папку build и исполняемый файл.
 ### Запуск
 
-[![с++](https://skillicons.dev/icons?i=с++)](https://skillicons.dev)
 
 Программа на вход принимает путь к файлу-сценарию с расширением .txt. 
 Пример: 
