@@ -5,6 +5,14 @@
 [![с++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 # Структура
 
+В директории [app](https://github.com/TheMightyOoze147/Impulse_cpp/tree/main/app) расположена точка входа в программу. 
+
+Директория [include](https://github.com/TheMightyOoze147/Impulse_cpp/tree/main/include) содержит подключаемые заголовочные файлы.
+
+Директория [scenaries](https://github.com/TheMightyOoze147/Impulse_cpp/tree/main/scenaries) содержит сценарий из ТЗ и пару тестовых сценариев.
+
+Директория [src](https://github.com/TheMightyOoze147/Impulse_cpp/tree/main/src) содержит исходный код подключаемых библиотек.
+
 ### Сборка
 
 Чтобы собрать программу необходимо, находясь в корневой папке проекта, вызвать процедуру сборки:
@@ -31,7 +39,7 @@ make clean
 
 В данном случае аргументом командной строки является 
 ```bash
-./scenaries/scenario.txt
+scenaries/scenario.txt
 ```
 
 Обозначающий путь к файлу.
